@@ -70,3 +70,6 @@ captures/
 
 # NDK crash logs
 hs_err_pid*
+
+# Project instructions (local only)
+CLAUDE.md
